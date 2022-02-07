@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/helloKMM.helloKMM.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloKMM/kmp-blueprints.helloKMM.iosX64Test.iml" />
+    </modules>
+  </component>
+</project>

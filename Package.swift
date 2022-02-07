@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "helloKMM",
-            url: "https://github.com/Atsumi3/helloKMM/releases/download/1.0.1/helloKMM.xcframework.zip"
-            checksum: "8b0a3d23eb1804e9a1431b7dd81857c5308f15c49d21b840f2fc91c4cfb63366"
+            url: "https://github.com/Atsumi3/helloKMM/releases/download/1.0.2/helloKMM.xcframework.zip",
+            checksum: "e087d198d12aba8352fb8ed43d81402c8e4f865af175ed4b5a48926fb4bf63db"
         )
     ]
 )

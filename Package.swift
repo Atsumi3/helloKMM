@@ -1,3 +1,5 @@
+// swift-tools-version:5.3
+
 import PackageDescription
 
 let package = Package(
@@ -13,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "helloKMM",
-            url: "https://github.com/Atsumi3/helloKMM/releases/download/1.0.0/helloKMM.xcframework.zip"
-            checksum: "bc427bac7b61b45b30968880421e38b81eafb9df82c3b36df0d1c25e7fe2b08a"
+            url: "https://github.com/Atsumi3/helloKMM/releases/download/1.0.1/helloKMM.xcframework.zip"
+            checksum: "8b0a3d23eb1804e9a1431b7dd81857c5308f15c49d21b840f2fc91c4cfb63366"
         )
     ]
 )

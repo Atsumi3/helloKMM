@@ -10,8 +10,8 @@ kotlin {
     android()
     ios {
         binaries.framework {
-            baseName = project.name
-            version = "1.0.0"
+            baseName = "helloKMM"
+            version = "1.0.1"
             xcf.add(this)
         }
     }
